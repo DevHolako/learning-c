@@ -1,3 +1,4 @@
+/*use rust or go; more effecient and new*/
 #include <stdio.h>
 #include <stdlib.h> // For system()
 
